@@ -11,7 +11,7 @@
 - **Linguagens**: JavaScript, Java, C, C++
 - **Front-end**: React.js, HTML5, CSS3
 - **Back-end**: Node.js, Express, Spring Boot
-- **Banco de Dados**: MongoDB, MySQL**, **PostgreSQL
+- **Banco de Dados**: MongoDB, MySQL, PostgreSQL
 - **Outros**: Git, GitHub, Swagger, JSON, Postman
 
 ---
@@ -31,8 +31,8 @@
  Tecnologias: React, Node.js, grafos ponderados
 
 ###  [Teste Front-end](https://github.com/vitor-sramos/teste-front-end)  
-> Resolução de desafio técnico front-end com foco em componentes reutilizáveis  
- Tecnologias: React, CSS, organização modular
+> Resolução de desafio técnico front-end com foco em lógica de programação utilizando JavaScript 
+ Tecnologias: JavaScript, Node.js
 
 ---
 
