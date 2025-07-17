@@ -18,6 +18,10 @@
 
 ##  Projetos em destaque:
 
+### [Sistema de Cadatros](https://github.com/vitor-sramos/Sistema-de-Cadastros)
+>  API RESTful para o gerenciamnto de cadastros, tratamento de exceções e documentação integrada — desenvolvida com boas práticas e uso moderno do Java
+Tecnologias: Spring Boot, MySQL, MapStruct, Swagger, Flyway, Records (Java)
+
 ###  [Projeto Cost](https://github.com/vitor-sramos/Projeto-Costs)  
 > Gerenciador de projetos com controle de orçamento — desenvolvido em React.js com json-server  
  Tecnologias: React, Router DOM, Hooks
