@@ -1,6 +1,6 @@
 #  Olá! Eu sou Vitor de Souza Ramos
 
- Estudante de Ciência da Computação na UNESC (5º semestre)  
+ Estudante de Ciência da Computação na UNESC (6º semestre)  
  Apaixonado por desenvolvimento de sistemas, algoritmos e resolução de problemas  
  Buscando minha primeira oportunidade na área de desenvolvimento  
 
@@ -8,10 +8,10 @@
 
 ##  Tecnologias que conheço:
 
-- **Linguagens**: JavaScript, Java, C, C++
+- **Linguagens**: Java, JavaScript, C, C++
 - **Front-end**: React.js, HTML5, CSS3
-- **Back-end**: Node.js, Express, Spring Boot
-- **Banco de Dados**: MongoDB, MySQL, PostgreSQL
+- **Back-end**: Spring Boot, Node.js, Express
+- **Banco de Dados**: PostgreSQL, MySQL, MongoDB
 - **Outros**: Git, GitHub, Swagger, JSON, Postman
 
 ---
