@@ -8,18 +8,18 @@
 
 ##  Tecnologias que conheço:
 
-- **Linguagens**: Java, JavaScript, C, C++
-- **Front-end**: React.js, HTML5, CSS3
-- **Back-end**: Spring Boot, Node.js, Express
-- **Banco de Dados**: PostgreSQL, MySQL, MongoDB
+- **Linguagens**: Java, JavaScript, TypeScript, C, C++
+- **Front-end**: React.js, HTML5, CSS3, Shadcn UI
+- **Back-end**: Spring Boot, Node.js, Fastify, Express
+- **Banco de Dados**: PostgreSQL, MySQL, MongoDB, Prisma
 - **Outros**: Git, GitHub, Swagger, JSON, Postman
 
 ---
 
 ##  Projetos em destaque:
 
-### [Sistema de Cadatros](https://github.com/vitor-sramos/Sistema-de-Cadastros)
->  API RESTful para o gerenciamnto de cadastros, tratamento de exceções e documentação integrada — desenvolvida com boas práticas e uso moderno do Java
+### [Sistema de Cadastros](https://github.com/vitor-sramos/Sistema-de-Cadastros)
+>  API RESTful para o gerenciamento de cadastros, tratamento de exceções e documentação integrada — desenvolvida com boas práticas e uso moderno do Java
 Tecnologias: Spring Boot, MySQL, MapStruct, Swagger, Flyway, Records (Java)
 
 ###  [Projeto Cost](https://github.com/vitor-sramos/Projeto-Costs)  
