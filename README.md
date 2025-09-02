@@ -1,4 +1,4 @@
-#  Olá! Eu sou Vitor de Souza Ramos
+#  Olá! Eu sou Vitor Ramos
 
 Estudante de Ciência da Computação na UNESC (6º semestre)
 Apaixonado por desenvolvimento de sistemas, algoritmos e resolução de problemas.
