@@ -1,18 +1,25 @@
 #  Olá! Eu sou Vitor Ramos
 
-Estudante de Ciência da Computação na UNESC (6º semestre)
-Apaixonado por desenvolvimento de sistemas, algoritmos e resolução de problemas.
-Focado em criar soluções eficientes e projetos de qualidade  
+ **Desenvolvedor Full Stack** na área de desenvolvimento de sistemas, atuando com **Java (Spring Boot)** no backend e **AngularJS** no frontend.  
+🎓 Estudante de **Ciência da Computação na UNESC (6º semestre)**.  
+🚀 Apaixonado por **tecnologia, algoritmos** e **resolução de problemas**, sempre em busca de criar soluções eficientes e bem estruturadas.  
+
 
 ---
 
 ##  Tecnologias que conheço:
 
 - **Linguagens**: Java, JavaScript, TypeScript, C, C++
-- **Front-end**: React.js, HTML5, CSS3, Shadcn UI
+- **Front-end**: React.js, AngularJS, HTML5, CSS3, Shadcn UI
 - **Back-end**: Spring Boot, Node.js, Fastify, Express
 - **Banco de Dados**: PostgreSQL, MySQL, MongoDB, Prisma
 - **Outros**: Git, GitHub, Swagger, JSON, Postman
+
+---
+
+##  Sobre mim:
+Atuo no desenvolvimento de aplicações web reais, com foco em **integração entre front-end e back-end**, utilizando boas práticas de código, versionamento e metodologias ágeis.  
+Sou motivado pelo aprendizado contínuo e pela busca por escrever código limpo, escalável e de qualidade.
 
 ---
 
