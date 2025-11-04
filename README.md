@@ -1,6 +1,6 @@
 #  Olá! Eu sou Vitor Ramos
 
- **Desenvolvedor Full Stack** na área de desenvolvimento de sistemas, atuando com **Java (Spring Boot)** no backend e **AngularJS** no frontend.  
+ **Desenvolvedor Full Stack** na área de desenvolvimento de sistemas, atuando com **Java (Spring Boot)**  e **AngularJS**.  
 🎓 Estudante de **Ciência da Computação na UNESC (6º semestre)**.  
 🚀 Apaixonado por **tecnologia, algoritmos** e **resolução de problemas**, sempre em busca de criar soluções eficientes e bem estruturadas.  
 
